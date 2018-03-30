@@ -17,19 +17,19 @@
     <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
     <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
-    <entry key="caches.indexerThreadsCount" value="-5" />
+    <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="core.pooled.threads" value="1000" />
-    <entry key="editor.navigation.history.stack.size" value="100" />
+    <entry key="editor.navigation.history.stack.size" value="9999" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="ide.completion.variant.limit" value="100" />
+    <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.dfa.state.limit" value="999999" />
-    <entry key="ide.dfa.time.limit.online" value="60000" />
+    <entry key="ide.dfa.time.limit.online" value="999999" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.max.recent.projects" value="100" />
@@ -38,8 +38,8 @@
     <entry key="ide.popup.resizable.border.sensitivity" value="10" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="100" />
-    <entry key="ide.tree.expandRecursionDepth" value="100" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="9999" />
+    <entry key="ide.tree.expandRecursionDepth" value="9999" />
     <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="ide.tree.waitForReadyTimeout" value="10" />
     <entry key="ide.usages.page.size" value="10" />
@@ -59,7 +59,6 @@
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.dnd.textHints" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
-    <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
