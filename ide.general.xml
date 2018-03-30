@@ -85,5 +85,21 @@
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.push.all.with.commits" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="groovy.console.project.view.names" value="true" />
+    <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="ide.enable.toolwindow.stack" value="true" />
+    <entry key="ide.find.enter.as.ok" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="ide.hide.real.module.name" value="true" />
+    <entry key="ide.javafx.tips" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.tree.checkStructure" value="true" />
+    <entry key="idea.4.5.laf.enabled" value="true" />
+    <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="javascript.flow.lazy.mode" value="true" />
+    <entry key="javascript.unused.global.declarations.cached" value="true" />
+    <entry key="vcs.log.highlight.not.indexed" value="true" />
   </component>
 </application>
