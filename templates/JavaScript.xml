@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="mdef" value="$METHOD_NAME$($PARAMETERS$) {&#10;  $CURSOR$&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="jsMethodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -27,7 +27,7 @@
     <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
     <entry key="ide.tree.expandRecursionDepth" value="999999" />
     <entry key="vcs.push.all.with.commits" value="true" />
-    <entry key="vcs.log.index.limit.minutes" value="999999" />
+    <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.log.index.force" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="typescript.compiler.all.settings" value="true" />
