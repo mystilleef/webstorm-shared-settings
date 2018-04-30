@@ -66,6 +66,7 @@
     </option>
   </inspection_tool>
   <inspection_tool class="BadOddness" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BashReplaceWithSubshell" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="BeforeClassOrAfterClassIsPublicStaticVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BeforeOrAfterIsPublicVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BigDecimalEquals" enabled="true" level="WARNING" enabled_by_default="true" />
