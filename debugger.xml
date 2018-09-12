@@ -1,11 +1,15 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="valueLookupDelay" value="1000" />
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
-          <custom-object-presentation />
+          <custom-object-presentation enabled="true" />
         </configuration>
       </debugger>
     </debuggers>

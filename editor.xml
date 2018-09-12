@@ -21,7 +21,9 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="1000" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="1000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="1000" chromeUpdateJSOnChanges="true" nodeAutoDelay="1000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
