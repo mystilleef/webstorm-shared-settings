@@ -7,6 +7,7 @@
     <option name="highlightThickness" value="1" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="FF9800" />
+    <option name="tabsHeight" value="36" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="upperCaseTabs" value="true" />
