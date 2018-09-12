@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="JavaScript" />
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
   </component>
