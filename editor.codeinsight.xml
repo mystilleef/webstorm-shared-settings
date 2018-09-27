@@ -19,6 +19,9 @@
     <option name="AUTOREPARSE_DELAY" value="1000" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="5" />
   </component>
+  <component name="DartCodeFoldingSettings">
+    <option name="collapseGenericParameters" value="true" />
+  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="collapseObjectLiterals" value="true" />
