@@ -4,7 +4,7 @@
     <property name="created">2018-03-21T22:42:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-09-12T02:34:52</property>
+    <property name="modified">2018-09-27T17:03:54</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -385,7 +385,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="2c372b" />
+        <option name="BACKGROUND" value="222222" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
