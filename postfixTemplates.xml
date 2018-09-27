@@ -1,8 +1,5 @@
 <application>
-  <component name="PostfixTemplates">
-    <template id="this@userDefined" key=".this" provider="builtin.js" language-level="ES6" topmost="false">
-      <conditions />
-      <template name="fakeKey" value="this.name = $EXPR$;" toReformat="true" toShortenFQNames="true" />
-    </template>
+  <component name="PostfixTemplatesSettings">
+    <option name="shortcut" value="10" />
   </component>
 </application>
