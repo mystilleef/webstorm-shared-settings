@@ -1,19 +1,26 @@
 <templateSet group="JavaScript">
-  <template name="mdef" value="$METHOD_NAME$($PARAMETERS$) {&#10;  $CURSOR$&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true">
+  <template name="mdef" value="$METHOD_NAME$($PARAMETERS$) {&#10;$END$&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="jsMethodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
-    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
       <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
-  <template name="cons" value="constructor($PARAMETERS$) {&#10;  $CURSOR$&#10;}" description="Class contructor" toReformat="true" toShortenFQNames="true">
+  <template name="cons" value="constructor($PARAMETERS$) {&#10;$END$&#10;}" description="Class contructor" toReformat="true" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
-    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="fdef" value="function $METHOD_NAME$($PARAMETERS$) {&#10;$END$&#10;}" description="Function definition" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="jsMethodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
 </templateSet>
