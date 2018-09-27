@@ -8,7 +8,7 @@
       <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
-  <template name="cons" value="constructor($PARAMETERS$) {&#10;$END$&#10;}" description="Class contructor" toReformat="true" toShortenFQNames="true">
+  <template name="mcon" value="constructor($PARAMETERS$) {&#10;$END$&#10;}" description="Class contructor" toReformat="true" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
     <context>
       <option name="JS_CLASS" value="true" />
