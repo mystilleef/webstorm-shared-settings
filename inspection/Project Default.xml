@@ -153,7 +153,6 @@
   <inspection_tool class="ConditionalExpression" enabled="true" level="INFORMATION" enabled_by_default="true">
     <option name="ignoreSimpleAssignmentsAndReturns" value="true" />
   </inspection_tool>
-  <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranches" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingFloatingPointLiteral" enabled="true" level="WARNING" enabled_by_default="true" />
