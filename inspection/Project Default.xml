@@ -17,7 +17,6 @@
   <inspection_tool class="AmbiguousFieldAccess" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AmbiguousMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AnonymousClassVariableHidesContainingMethodVariable" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AnonymousFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AnonymousInnerClassMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ArrayEquality" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertAsName" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -214,6 +213,11 @@
   </inspection_tool>
   <inspection_tool class="DynamicRegexReplaceableByCompiledPattern" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertModuleExportToExport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertRequireIntoImport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertToForOf" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6MissingAwait" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ShorthandObjectProperty" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
@@ -270,7 +274,8 @@
   </inspection_tool>
   <inspection_tool class="FinalizeNotProtected" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FloatingPointEquality" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="FlowJSError" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FlowJSFlagCommentPlacement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ForLoopReplaceableByWhile" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreLoopsWithoutConditions" value="false" />
   </inspection_tool>
@@ -424,8 +429,12 @@
   <inspection_tool class="JNDIResource" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="insideTryAllowed" value="false" />
   </inspection_tool>
+  <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSNonStrictModeUsed" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSRemoveUnnecessaryParentheses" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSStringConcatenationToES6Template" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JUnit3StyleTestMethodInJUnit4Class" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JUnit5AssertionsConverter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JUnit5Converter" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -541,9 +550,6 @@
   <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedConditionalExpression" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_includeAnonymousFunctions" value="false" />
-  </inspection_tool>
   <inspection_tool class="NestedMethodCall" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreFieldInitializations" value="true" />
     <option name="ignoreStaticMethods" value="true" />
@@ -606,15 +612,9 @@
     <option name="ignoreInconvertibleTypes" value="true" />
   </inspection_tool>
   <inspection_tool class="OverloadedVarargsMethod" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="OverlyComplexArithmeticExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_limit" value="6" />
-  </inspection_tool>
   <inspection_tool class="OverlyComplexBooleanExpression" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="3" />
     <option name="m_ignorePureConjunctionsDisjunctions" value="true" />
-  </inspection_tool>
-  <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_limit" value="3" />
   </inspection_tool>
   <inspection_tool class="OverlyStrongTypeCast" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreInMatchingInstanceof" value="false" />
