@@ -26,7 +26,6 @@
     <entry key="git.blocking.read" value="false" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.javafx.tips" value="true" />
-    <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
