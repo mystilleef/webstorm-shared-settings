@@ -163,7 +163,6 @@
   <inspection_tool class="ConstantJUnitAssertArgument" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantMathCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantValueVariableUse" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ContinueStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ContinueStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -213,8 +212,10 @@
   </inspection_tool>
   <inspection_tool class="DynamicRegexReplaceableByCompiledPattern" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ES6ConvertModuleExportToExport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ES6ConvertRequireIntoImport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertModuleExportToExport" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Tests" level="WEAK WARNING" enabled="false" />
+  </inspection_tool>
   <inspection_tool class="ES6ConvertToForOf" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6MissingAwait" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ShorthandObjectProperty" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -286,11 +287,6 @@
   <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ForLoopWithMissingComponent" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreCollectionLoops" value="false" />
-  </inspection_tool>
-  <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z][A-Za-z]*" />
-    <option name="m_minLength" value="4" />
-    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrMethodMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true">
@@ -430,8 +426,10 @@
     <option name="insideTryAllowed" value="false" />
   </inspection_tool>
   <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSNonASCIINames" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myAllowOnlyAscii" value="true" />
+  </inspection_tool>
   <inspection_tool class="JSNonStrictModeUsed" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSRemoveUnnecessaryParentheses" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSStringConcatenationToES6Template" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -468,11 +466,6 @@
   <inspection_tool class="LocalVariableHidingMemberVariable" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreInvisibleFields" value="true" />
     <option name="m_ignoreStaticMethods" value="true" />
-  </inspection_tool>
-  <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z][A-Za-z]*" />
-    <option name="m_minLength" value="1" />
-    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="LocalVariableOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LogStatementGuardedByLogCondition" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -637,11 +630,6 @@
   <inspection_tool class="ParameterNameDiffersFromOverriddenParameter" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreSingleCharacterNames" value="false" />
     <option name="m_ignoreOverridesOfLibraryMethods" value="false" />
-  </inspection_tool>
-  <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z][A-Za-z]*" />
-    <option name="m_minLength" value="1" />
-    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="ParameterOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ParameterTypePreventsOverriding" enabled="true" level="WARNING" enabled_by_default="true" />
