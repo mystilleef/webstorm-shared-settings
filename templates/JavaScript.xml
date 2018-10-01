@@ -23,4 +23,41 @@
       <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
+  <template name="afdef" value="async function $METHOD_NAME$($PARAMETERS$) {&#10;$END$&#10;}" description="Function definition" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="jsMethodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+    </context>
+  </template>
+  <template name="amdef" value="async $METHOD_NAME$($PARAMETERS$) {&#10;$END$&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="jsMethodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="jsDefineParameter()" defaultValue="&quot; &quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+    </context>
+  </template>
+  <template name="log" value="console.log($SELECTION$);$END$" description="Console log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($SELECTION$);$END$" description="Console log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="vdef" value="$VARIABLE_MODIFIER$ $VARIABLE_NAME$ = $SELECTION$;$END$" description="Variable definition" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLE_MODIFIER" expression="jsSuggestDefaultVariableKind()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE_NAME" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
