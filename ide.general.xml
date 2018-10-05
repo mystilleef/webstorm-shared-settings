@@ -56,5 +56,11 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
+    <entry key="compiler.automake.trigger.delay" value="10000" />
+    <entry key="compiler.document.save.enabled" value="true" />
+    <entry key="compiler.document.save.trigger.delay" value="10000" />
+    <entry key="ide.dfa.time.limit.online" value="60000" />
+    <entry key="ide.find.enter.as.ok" value="true" />
   </component>
 </application>
