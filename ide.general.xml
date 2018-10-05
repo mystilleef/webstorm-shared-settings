@@ -49,5 +49,12 @@
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="win.editor.thumb.default.alpha.base" value="0" />
+    <entry key="win.editor.thumb.default.alpha.delta" value="102" />
+    <entry key="win.editor.thumb.darcula.alpha.base" value="0" />
+    <entry key="win.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="win.editor.thumb.default.fill.min" value="102" />
+    <entry key="win.editor.thumb.default.fill.max" value="150" />
+    <entry key="win.editor.thumb.darcula.fill.min" value="102" />
   </component>
 </application>
