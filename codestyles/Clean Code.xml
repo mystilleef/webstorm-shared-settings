@@ -378,6 +378,8 @@
     <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
+    <option name="PARENTHESES_EXPRESSION_RPAREN_WRAP" value="true" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
@@ -396,6 +398,18 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>GROUP_PROPERTY_FIELD_WITH_GETTER_SETTER</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
