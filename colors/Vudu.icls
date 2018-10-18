@@ -4,7 +4,7 @@
     <property name="created">2018-03-21T22:42:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-10-18T04:13:51</property>
+    <property name="modified">2018-10-18T07:20:19</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -153,11 +153,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CSS.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+      </value>
+    </option>
     <option name="CSS.COLON">
       <value>
         <option name="FOREGROUND" value="912929" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="912929" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
@@ -166,10 +176,29 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.IDENT">
+    <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="c8a034" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="496f91" />
+        <option name="EFFECT_COLOR" value="496f91" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -615,6 +644,26 @@
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_INTERPOLATION">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
