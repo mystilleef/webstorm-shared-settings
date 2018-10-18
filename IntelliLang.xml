@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="xml">
+      <display-name>html</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().matches("<none>")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+    </injection>
+  </component>
+</application>
