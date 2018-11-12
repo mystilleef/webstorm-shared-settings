@@ -34,14 +34,13 @@
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="spy.js.realtime.evaluation" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="vcs.annotations.preload" value="true" />
-    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="false" />
     <entry key="cidr.indexer.strictImportGraph" value="true" />
     <entry key="diff.verify.iterable" value="true" />
     <entry key="git.log.fix.merge.commits.parents.order" value="true" />
