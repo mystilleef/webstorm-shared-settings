@@ -4,6 +4,7 @@
       <blacklist language="TypeScript" />
       <blacklist language="JavaScript" />
     </blacklists>
+    <option id="ts.show.names.for.all.args" value="true" />
     <option id="js.show.names.for.all.args" value="true" />
   </component>
 </application>
