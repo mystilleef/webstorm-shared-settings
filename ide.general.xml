@@ -3,7 +3,7 @@
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="inactiveTimeout" value="10" />
+    <option name="inactiveTimeout" value="5" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
@@ -55,5 +55,6 @@
     <entry key="compiler.document.save.enabled" value="true" />
     <entry key="ide.dfa.time.limit.online" value="60000" />
     <entry key="ide.find.enter.as.ok" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>

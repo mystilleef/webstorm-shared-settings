@@ -6,5 +6,6 @@
     </blacklists>
     <option id="ts.show.names.for.all.args" value="true" />
     <option id="js.show.names.for.all.args" value="true" />
+    <option id="js.only.show.names.for.all.args" value="true" />
   </component>
 </application>
