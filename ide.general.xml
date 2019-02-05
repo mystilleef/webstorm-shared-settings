@@ -22,7 +22,6 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
-    <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
@@ -35,5 +34,11 @@
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="100" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="compiler.document.save.enabled" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="batch.jvm.inspections" value="true" />
+    <entry key="ast.loading.filter" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
   </component>
 </application>
