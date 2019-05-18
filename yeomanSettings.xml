@@ -1,5 +1,6 @@
 <application>
   <component name="YeomanSettings">
+    <option name="yoPackagePath" value="$USER_HOME$/.nvm/versions/node/v8.12.0/lib/node_modules/yo" />
     <option name="nodeExePath" value="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node" />
   </component>
 </application>
