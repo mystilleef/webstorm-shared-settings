@@ -75,5 +75,6 @@
     <entry key="psi.modification.tracker.code-block" value="true" />
     <entry key="psi.modification.tracker.java-structure" value="true" />
     <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
