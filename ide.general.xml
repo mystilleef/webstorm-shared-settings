@@ -39,5 +39,6 @@
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="search.everywhere.disable.history.for.all" value="true" />
     <entry key="ide.tooltip.initialDelay" value="110" />
+    <entry key="ide.max.editor.tabs" value="1" />
   </component>
 </application>
