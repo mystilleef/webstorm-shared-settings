@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-06-15T01:40:56</property>
+    <property name="modified">2019-08-18T03:14:55</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -34,22 +34,22 @@
     <option name="ERROR_HINT" value="3f0005" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="555555" />
     <option name="GUTTER_BACKGROUND" value="1e272c" />
-    <option name="INDENT_GUIDE" value="444444" />
+    <option name="INDENT_GUIDE" value="28363f" />
     <option name="INFORMATION_HINT" value="243f1c" />
     <option name="LINE_NUMBERS_COLOR" value="444444" />
     <option name="METHOD_SEPARATORS_COLOR" value="333333" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="READONLY_BACKGROUND" value="0" />
-    <option name="RIGHT_MARGIN_COLOR" value="444444" />
-    <option name="SELECTED_INDENT_GUIDE" value="444444" />
+    <option name="RIGHT_MARGIN_COLOR" value="28363f" />
+    <option name="SELECTED_INDENT_GUIDE" value="28363f" />
     <option name="SELECTED_TEARLINE_COLOR" value="444444" />
     <option name="SELECTION_BACKGROUND" value="2875bf" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_ABOVE_COLOR" value="444444" />
     <option name="SEPARATOR_BELOW_COLOR" value="444444" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="555555" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="28363f" />
     <option name="TEARLINE_COLOR" value="444444" />
-    <option name="VISUAL_INDENT_GUIDE" value="444444" />
+    <option name="VISUAL_INDENT_GUIDE" value="28363f" />
     <option name="WHITESPACES" value="333333" />
   </colors>
   <attributes>
@@ -456,6 +456,9 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
@@ -601,7 +604,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="912929" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -613,10 +615,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="912929" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -744,10 +743,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffa500" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
