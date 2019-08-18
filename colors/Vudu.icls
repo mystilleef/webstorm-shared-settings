@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-18T03:31:34</property>
+    <property name="modified">2019-08-18T04:10:05</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -32,26 +32,26 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="1e272c" />
     <option name="DOCUMENTATION_COLOR" value="222222" />
     <option name="ERROR_HINT" value="3f0005" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="555555" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="26323a" />
     <option name="GUTTER_BACKGROUND" value="1e272c" />
-    <option name="INDENT_GUIDE" value="232f36" />
+    <option name="INDENT_GUIDE" value="26323a" />
     <option name="INFORMATION_HINT" value="243f1c" />
-    <option name="LINE_NUMBERS_COLOR" value="444444" />
-    <option name="METHOD_SEPARATORS_COLOR" value="333333" />
+    <option name="LINE_NUMBERS_COLOR" value="26323a" />
+    <option name="METHOD_SEPARATORS_COLOR" value="26323a" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="READONLY_BACKGROUND" value="0" />
-    <option name="RIGHT_MARGIN_COLOR" value="232f36" />
-    <option name="SELECTED_INDENT_GUIDE" value="232f36" />
-    <option name="SELECTED_TEARLINE_COLOR" value="232f36" />
+    <option name="RIGHT_MARGIN_COLOR" value="26323a" />
+    <option name="SELECTED_INDENT_GUIDE" value="26323a" />
+    <option name="SELECTED_TEARLINE_COLOR" value="26323a" />
     <option name="SELECTION_BACKGROUND" value="2875bf" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="232f36" />
-    <option name="SEPARATOR_BELOW_COLOR" value="232f36" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="26323a" />
+    <option name="SEPARATOR_BELOW_COLOR" value="26323a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="232f36" />
-    <option name="ScrollBar.hoverThumbColor" value="232f3659" />
-    <option name="ScrollBar.thumbColor" value="232f3647" />
-    <option name="TEARLINE_COLOR" value="232f36" />
-    <option name="VISUAL_INDENT_GUIDE" value="232f36" />
+    <option name="ScrollBar.hoverThumbColor" value="26323a59" />
+    <option name="ScrollBar.thumbColor" value="26323a47" />
+    <option name="TEARLINE_COLOR" value="26323a" />
+    <option name="VISUAL_INDENT_GUIDE" value="26323a" />
     <option name="WHITESPACES" value="232f36" />
   </colors>
   <attributes>
@@ -398,7 +398,7 @@
       <value>
         <option name="FOREGROUND" value="444444" />
         <option name="BACKGROUND" value="333333" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -414,7 +414,7 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="323720" />
-        <option name="EFFECT_COLOR" value="912929" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -428,7 +428,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="26323a" />
       </value>
     </option>
     <option name="Enum name">
@@ -439,7 +439,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="26323a" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -452,7 +453,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="BACKGROUND" value="323720" />
-        <option name="EFFECT_COLOR" value="912929" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -479,8 +480,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="194b25" />
-        <option name="EFFECT_COLOR" value="333333" />
+        <option name="BACKGROUND" value="1b2b28" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
@@ -495,7 +496,7 @@
       <value>
         <option name="FOREGROUND" value="888888" />
         <option name="BACKGROUND" value="5f3800" />
-        <option name="EFFECT_COLOR" value="ffa500" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ffa500" />
       </value>
     </option>
@@ -507,7 +508,8 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="2c372b" />
+        <option name="BACKGROUND" value="26323a" />
+        <option name="EFFECT_COLOR" value="26323a" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -764,14 +766,15 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="912929" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="9e2927" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="10371a" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="BACKGROUND" value="1b2b28" />
+        <option name="EFFECT_COLOR" value="26323a" />
+        <option name="ERROR_STRIPE_COLOR" value="172f23" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -783,8 +786,8 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="123737" />
-        <option name="EFFECT_COLOR" value="185555" />
+        <option name="BACKGROUND" value="1b2b28" />
+        <option name="EFFECT_COLOR" value="26323a" />
       </value>
     </option>
     <option name="TEXT">
@@ -796,9 +799,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="10371a" />
-        <option name="EFFECT_COLOR" value="1a553e" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="BACKGROUND" value="1b2b28" />
+        <option name="EFFECT_COLOR" value="26323a" />
+        <option name="ERROR_STRIPE_COLOR" value="172f23" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -848,26 +851,28 @@
       <value>
         <option name="FOREGROUND" value="888888" />
         <option name="BACKGROUND" value="5f5f00" />
-        <option name="EFFECT_COLOR" value="ffff00" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1d1d" />
-        <option name="EFFECT_COLOR" value="333333" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="BACKGROUND" value="252428" />
+        <option name="EFFECT_COLOR" value="26323a" />
+        <option name="ERROR_STRIPE_COLOR" value="2b2124" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="371b1b" />
+        <option name="BACKGROUND" value="252428" />
+        <option name="EFFECT_COLOR" value="26323a" />
+        <option name="ERROR_STRIPE_COLOR" value="2b2124" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="350005" />
-        <option name="EFFECT_COLOR" value="912929" />
+        <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
