@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-18T04:10:05</property>
+    <property name="modified">2019-08-18T04:31:46</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -34,24 +34,25 @@
     <option name="ERROR_HINT" value="3f0005" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="26323a" />
     <option name="GUTTER_BACKGROUND" value="1e272c" />
-    <option name="INDENT_GUIDE" value="26323a" />
+    <option name="INDENT_GUIDE" value="232f36" />
     <option name="INFORMATION_HINT" value="243f1c" />
     <option name="LINE_NUMBERS_COLOR" value="26323a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="26323a" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="999999" />
+    <option name="METHOD_SEPARATORS_COLOR" value="232f36" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="READONLY_BACKGROUND" value="0" />
-    <option name="RIGHT_MARGIN_COLOR" value="26323a" />
-    <option name="SELECTED_INDENT_GUIDE" value="26323a" />
-    <option name="SELECTED_TEARLINE_COLOR" value="26323a" />
+    <option name="RIGHT_MARGIN_COLOR" value="232f36" />
+    <option name="SELECTED_INDENT_GUIDE" value="232f36" />
+    <option name="SELECTED_TEARLINE_COLOR" value="232f36" />
     <option name="SELECTION_BACKGROUND" value="2875bf" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="26323a" />
-    <option name="SEPARATOR_BELOW_COLOR" value="26323a" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="232f36" />
+    <option name="SEPARATOR_BELOW_COLOR" value="232f36" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="232f36" />
-    <option name="ScrollBar.hoverThumbColor" value="26323a59" />
-    <option name="ScrollBar.thumbColor" value="26323a47" />
-    <option name="TEARLINE_COLOR" value="26323a" />
-    <option name="VISUAL_INDENT_GUIDE" value="26323a" />
+    <option name="ScrollBar.hoverThumbColor" value="232f3659" />
+    <option name="ScrollBar.thumbColor" value="232f3647" />
+    <option name="TEARLINE_COLOR" value="232f36" />
+    <option name="VISUAL_INDENT_GUIDE" value="232f36" />
     <option name="WHITESPACES" value="232f36" />
   </colors>
   <attributes>
@@ -404,7 +405,6 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="444444" />
         <option name="BACKGROUND" value="333333" />
         <option name="EFFECT_COLOR" value="444444" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
@@ -426,8 +426,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="561d21" />
         <option name="ERROR_STRIPE_COLOR" value="26323a" />
       </value>
     </option>
@@ -482,20 +481,18 @@
       <value>
         <option name="BACKGROUND" value="1b2b28" />
         <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="565d61" />
       </value>
     </option>
     <option name="IGNORE.UNUSED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="444444" />
         <option name="BACKGROUND" value="333333" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="888888" />
-        <option name="BACKGROUND" value="5f3800" />
+        <option name="BACKGROUND" value="565d21" />
         <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ffa500" />
       </value>
@@ -509,7 +506,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="26323a" />
-        <option name="EFFECT_COLOR" value="26323a" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -738,7 +734,6 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="444444" />
         <option name="BACKGROUND" value="333333" />
         <option name="EFFECT_COLOR" value="444444" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
@@ -753,7 +748,6 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="444444" />
         <option name="BACKGROUND" value="333333" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="2" />
@@ -849,8 +843,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="888888" />
-        <option name="BACKGROUND" value="5f5f00" />
+        <option name="BACKGROUND" value="564721" />
         <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
       </value>
