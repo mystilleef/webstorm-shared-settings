@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-18T05:05:26</property>
+    <property name="modified">2019-08-18T13:42:07</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -481,7 +481,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1b2b28" />
+        <option name="BACKGROUND" value="173621" />
         <option name="EFFECT_COLOR" value="26323a" />
         <option name="ERROR_STRIPE_COLOR" value="565d61" />
       </value>
@@ -751,7 +751,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="171d21" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -777,9 +777,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1b2b28" />
+        <option name="BACKGROUND" value="143b1d" />
         <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="172f23" />
+        <option name="ERROR_STRIPE_COLOR" value="143b1d" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -804,9 +804,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1b2b28" />
+        <option name="BACKGROUND" value="143b1d" />
         <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="172f23" />
+        <option name="ERROR_STRIPE_COLOR" value="143b1d" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
