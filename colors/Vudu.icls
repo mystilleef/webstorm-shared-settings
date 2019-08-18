@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-18T04:31:46</property>
+    <property name="modified">2019-08-18T05:05:26</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -96,20 +96,20 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="555555" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="26323a" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -189,8 +189,8 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a0000" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="8b0f11" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -292,10 +292,10 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="350005" />
+        <option name="BACKGROUND" value="561d21" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="550005" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="561d21" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -306,15 +306,15 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="8b8e90" />
+        <option name="BACKGROUND" value="171d21" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a0000" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="8b0f11" />
+        <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -398,24 +398,25 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
-        <option name="BACKGROUND" value="333333" />
+        <option name="BACKGROUND" value="29322a" />
         <option name="EFFECT_COLOR" value="26323a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="333333" />
-        <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="FOREGROUND" value="444444" />
+        <option name="BACKGROUND" value="29322a" />
+        <option name="ERROR_STRIPE_COLOR" value="29322a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="323720" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="29322a" />
         <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="ERROR_STRIPE_COLOR" value="29322a" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -426,8 +427,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="561d21" />
-        <option name="ERROR_STRIPE_COLOR" value="26323a" />
+        <option name="ERROR_STRIPE_COLOR" value="561d21" />
       </value>
     </option>
     <option name="Enum name">
@@ -446,14 +448,14 @@
       <value>
         <option name="FOREGROUND" value="496f91" />
         <option name="EFFECT_COLOR" value="496f91" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="BACKGROUND" value="323720" />
-        <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="561d21" />
+        <option name="ERROR_STRIPE_COLOR" value="561d21" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
@@ -474,7 +476,7 @@
       <value>
         <option name="FOREGROUND" value="496f91" />
         <option name="EFFECT_COLOR" value="496f91" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -486,15 +488,22 @@
     </option>
     <option name="IGNORE.UNUSED_ENTRY">
       <value>
-        <option name="BACKGROUND" value="333333" />
+        <option name="FOREGROUND" value="444444" />
+        <option name="BACKGROUND" value="29322a" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+      </value>
+    </option>
+    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="707d95" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="565d21" />
-        <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="ffa500" />
+        <option name="ERROR_STRIPE_COLOR" value="565d21" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -505,7 +514,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="26323a" />
+        <option name="BACKGROUND" value="2c372b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -734,22 +743,23 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="333333" />
-        <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="FOREGROUND" value="444444" />
+        <option name="BACKGROUND" value="29322a" />
+        <option name="ERROR_STRIPE_COLOR" value="29322a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="171d21" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="333333" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="FOREGROUND" value="444444" />
+        <option name="BACKGROUND" value="29322a" />
+        <option name="ERROR_STRIPE_COLOR" value="29322a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -760,8 +770,9 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="561d21" />
+        <option name="ERROR_STRIPE_COLOR" value="561d21" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -800,8 +811,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="8f9316" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="bf9834" />
+        <option name="ERROR_STRIPE_COLOR" value="8f9316" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -843,9 +855,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="564721" />
-        <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="564721" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -864,9 +876,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="350005" />
-        <option name="EFFECT_COLOR" value="26323a" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="561d21" />
+        <option name="ERROR_STRIPE_COLOR" value="561d21" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
