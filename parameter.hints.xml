@@ -2,9 +2,12 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript" />
     </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
     <option id="ts.show.names.for.all.args" value="true" />
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
     <option id="js.show.names.for.all.args" value="true" />
     <option id="js.only.show.names.for.all.args" value="true" />
   </component>
