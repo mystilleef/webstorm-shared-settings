@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-18T16:38:52</property>
+    <property name="modified">2019-08-18T17:16:03</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -32,18 +32,20 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="222b30" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e272c" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="" />
     <option name="DOCUMENTATION_COLOR" value="222222" />
     <option name="ERROR_HINT" value="3f0005" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="26323a" />
     <option name="GUTTER_BACKGROUND" value="1e272c" />
     <option name="INDENT_GUIDE" value="283136" />
     <option name="INFORMATION_HINT" value="243f1c" />
-    <option name="LINE_NUMBERS_COLOR" value="283136" />
+    <option name="LINE_NUMBERS_COLOR" value="323b41" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="283136" />
     <option name="MODIFIED_LINES_COLOR" value="496f91" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="READONLY_BACKGROUND" value="0" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="171d21" />
     <option name="RIGHT_MARGIN_COLOR" value="283136" />
     <option name="SELECTED_INDENT_GUIDE" value="283136" />
     <option name="SELECTED_TEARLINE_COLOR" value="283136" />
@@ -136,7 +138,7 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="283136" />
+        <option name="FOREGROUND" value="323b41" />
         <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
@@ -454,7 +456,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="323b41" />
         <option name="BACKGROUND" value="29322a" />
         <option name="EFFECT_COLOR" value="26323a" />
         <option name="EFFECT_TYPE" value="3" />
@@ -497,7 +499,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="26323a" />
+        <option name="FOREGROUND" value="323b41" />
         <option name="BACKGROUND" value="171d21" />
       </value>
     </option>
@@ -853,8 +855,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="171d21" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="283136" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
