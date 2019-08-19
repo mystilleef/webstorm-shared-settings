@@ -51,5 +51,22 @@
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="actionSystem.update.actions.asynchronously" value="true" />
+    <entry key="editor.adjust.right.margin" value="true" />
+    <entry key="editor.keep.completion.hints.even.longer" value="true" />
+    <entry key="editor.keep.completion.hints.longer" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="invoker.can.yield.to.pending.write.actions" value="true" />
+    <entry key="keymap.show.alias.actions" value="true" />
+    <entry key="typescript.compiler.all.settings" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
+    <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="10" />
+    <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
   </component>
 </application>
