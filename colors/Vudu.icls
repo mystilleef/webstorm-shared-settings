@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-19T20:31:43</property>
+    <property name="modified">2019-08-20T15:45:37</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -43,7 +43,7 @@
     <option name="LINE_NUMBERS_COLOR" value="323b41" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="283136" />
-    <option name="MODIFIED_LINES_COLOR" value="171d44" />
+    <option name="MODIFIED_LINES_COLOR" value="496f91" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="QUESTION_HINT" value="8f9316" />
     <option name="READONLY_BACKGROUND" value="171d21" />
@@ -534,19 +534,19 @@
     </option>
     <option name="GIT_TOOLBOX.HEAD_TAGS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="496f91" />
+        <option name="FOREGROUND" value="912929" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.LOCAL_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6400" />
+        <option name="FOREGROUND" value="496f91" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="912929" />
+        <option name="FOREGROUND" value="3a00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
