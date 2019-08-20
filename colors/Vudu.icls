@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-19T06:19:14</property>
+    <property name="modified">2019-08-19T20:31:43</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -32,6 +32,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="222b30" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e272c" />
+    <option name="DELETED_LINES_COLOR" value="391d21" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="" />
     <option name="DOCUMENTATION_COLOR" value="171d21" />
     <option name="ERROR_HINT" value="561d21" />
@@ -42,7 +43,7 @@
     <option name="LINE_NUMBERS_COLOR" value="323b41" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="283136" />
-    <option name="MODIFIED_LINES_COLOR" value="496f91" />
+    <option name="MODIFIED_LINES_COLOR" value="171d44" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="QUESTION_HINT" value="8f9316" />
     <option name="READONLY_BACKGROUND" value="171d21" />
@@ -67,7 +68,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="283136" />
     <option name="VISUAL_INDENT_GUIDE" value="283136" />
     <option name="WHITESPACES" value="232f36" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="8f9316" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="565437" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
