@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-22T15:37:04</property>
+    <property name="modified">2019-08-22T15:53:36</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -647,10 +647,21 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JAVA.MODIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
