@@ -4,7 +4,7 @@
     <property name="created">2019-01-01T20:50:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-08-20T20:22:21</property>
+    <property name="modified">2019-08-22T00:40:50</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1102,6 +1102,12 @@
         <option name="BACKGROUND" value="283136" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="8f9316" />
+      </value>
+    </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
