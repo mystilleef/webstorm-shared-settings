@@ -4,10 +4,11 @@
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="GitToolBox Behind Tracker" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="GitToolBox Fetch" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Indexing" />
     <notification groupId="Material Theme Notifications" shouldLog="false" />
     <notification groupId="Material Theme Notifications_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="Profiling" />
     <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
