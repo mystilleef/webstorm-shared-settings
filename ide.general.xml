@@ -66,7 +66,8 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
-    <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="10" />
+    <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="100" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
+    <entry key="undo.globalUndoLimit" value="1000" />
   </component>
 </application>
