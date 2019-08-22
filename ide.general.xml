@@ -69,5 +69,10 @@
     <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="100" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="always.show.intention.above.current.line" value="true" />
+    <entry key="ide.new.color.picker" value="true" />
+    <entry key="javascript.flow.lazy.mode" value="true" />
   </component>
 </application>
