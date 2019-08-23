@@ -74,5 +74,11 @@
     <entry key="always.show.intention.above.current.line" value="true" />
     <entry key="ide.new.color.picker" value="true" />
     <entry key="javascript.flow.lazy.mode" value="true" />
+    <entry key="diff.divider.width" value="5" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="editor.virtual.lines" value="10" />
+    <entry key="ide.find.as.popup.max.rows" value="5" />
+    <entry key="ide.notification.visible.count" value="5" />
+    <entry key="idea.true.smooth.scrolling.interpolation.scrollbar.delay" value="5" />
   </component>
 </application>
