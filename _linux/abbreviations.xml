@@ -1,0 +1,20 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="ShowSettings">
+        <abbreviation name="sts" />
+        <abbreviation name="set" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+        <abbreviation name="ren" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

@@ -7,17 +7,11 @@
             <option name="WORD">
               <CaretStop start="true" end="true" />
             </option>
-            <option name="LINE">
-              <CaretStop start="true" end="true" />
-            </option>
           </CaretStopPolicy>
         </option>
         <option name="FORWARD">
           <CaretStopPolicy>
             <option name="WORD">
-              <CaretStop start="true" end="true" />
-            </option>
-            <option name="LINE">
               <CaretStop start="true" end="true" />
             </option>
           </CaretStopPolicy>
