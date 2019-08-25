@@ -1,9 +1,6 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="ExtractMethod">
-        <abbreviation name="exm" />
-      </action>
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
       </action>
@@ -14,6 +11,12 @@
       <action id="RenameElement">
         <abbreviation name="rnm" />
         <abbreviation name="ren" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
       </action>
     </abbreviations>
   </component>
