@@ -43,9 +43,7 @@
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
     <entry key="ide.tabbedPane.bufferedPaint" value="true" />
     <entry key="idea.lazy.classloading.caches" value="true" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="ide.completion.typo.tolerance" value="true" />
-    <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
