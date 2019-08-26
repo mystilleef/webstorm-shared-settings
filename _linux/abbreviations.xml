@@ -11,6 +11,9 @@
         <abbreviation name="sts" />
         <abbreviation name="set" />
       </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="rst" />
+      </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
       </action>
