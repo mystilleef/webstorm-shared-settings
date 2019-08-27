@@ -38,7 +38,7 @@
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="search.everywhere.disable.history.for.all" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="110" />
+    <entry key="ide.tooltip.initialDelay" value="10" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
     <entry key="ide.tabbedPane.bufferedPaint" value="true" />
@@ -78,5 +78,21 @@
     <entry key="ide.find.as.popup.max.rows" value="5" />
     <entry key="ide.notification.visible.count" value="5" />
     <entry key="idea.true.smooth.scrolling.interpolation.scrollbar.delay" value="5" />
+    <entry key="editor.text.xcode.vertical.spacing" value="true" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="git.log.fast.picked.commits.highlighting" value="true" />
+    <entry key="git.log.fix.merge.commits.parents.order" value="true" />
+    <entry key="git.merge.conflicts.toolwindow" value="true" />
+    <entry key="github.action.pullrequest.state.useapi" value="true" />
+    <entry key="ide.completion.variant.limit" value="10" />
+    <entry key="vcs.ignorefile.generation" value="true" />
+    <entry key="vcs.log.index.force" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="vcs.non.modal.commit" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="vcs.skip.single.default.changelist" value="true" />
+    <entry key="ide.scratch.buffers" value="10" />
+    <entry key="ide.windowSystem.hScrollChars" value="1" />
+    <entry key="ide.windowSystem.vScrollChars" value="1" />
   </component>
 </application>
