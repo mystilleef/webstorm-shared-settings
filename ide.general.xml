@@ -94,5 +94,6 @@
     <entry key="ide.scratch.buffers" value="10" />
     <entry key="ide.windowSystem.hScrollChars" value="1" />
     <entry key="ide.windowSystem.vScrollChars" value="1" />
+    <entry key="editor.focus.mode" value="true" />
   </component>
 </application>
