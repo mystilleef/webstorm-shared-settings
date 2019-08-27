@@ -1,8 +1,0 @@
-<application>
-  <component name="libraryTable">
-    <library name="@types/rollup-plugin-commonjs" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-  </component>
-</application>
