@@ -41,10 +41,10 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="ALIGN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="FALSE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="OBJECT_WRAPPING" value="5" />
@@ -108,7 +108,6 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="ALIGN_IMPORTS" value="true" />
     <option name="ALIGN_UNION_TYPES" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
@@ -337,6 +336,7 @@
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
@@ -345,20 +345,8 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
-      <groups>
-        <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>GROUP_PROPERTY_FIELD_WITH_GETTER_SETTER</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>TREAT_LAMBDA_INITIALIZED_FIELDS_AS_METHODS</type>
-          <order>KEEP</order>
-        </group>
-      </groups>
+      <groups />
+      <rules />
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
@@ -444,20 +432,8 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
-      <groups>
-        <group>
-          <type>GROUP_PROPERTY_FIELD_WITH_GETTER_SETTER</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>TREAT_LAMBDA_INITIALIZED_FIELDS_AS_METHODS</type>
-          <order>KEEP</order>
-        </group>
-      </groups>
+      <groups />
+      <rules />
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">

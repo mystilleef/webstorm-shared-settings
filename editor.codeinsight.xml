@@ -14,7 +14,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Disabled">
-    <option name="AUTOREPARSE_DELAY" value="250" />
+    <option name="AUTOREPARSE_DELAY" value="125" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
