@@ -32,7 +32,6 @@
     <entry key="psi.modification.tracker.java-structure" value="true" />
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
@@ -95,5 +94,6 @@
     <entry key="ide.windowSystem.hScrollChars" value="1" />
     <entry key="ide.windowSystem.vScrollChars" value="1" />
     <entry key="editor.focus.mode" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
   </component>
 </application>
