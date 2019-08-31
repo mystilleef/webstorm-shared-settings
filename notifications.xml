@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
+    <notification groupId="ESLint plugin" shouldLog="false" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
