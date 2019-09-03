@@ -96,5 +96,12 @@
     <entry key="editor.focus.mode" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="core.pooled.threads" value="100" />
+    <entry key="deployment.BouncyCastleJCE" value="true" />
+    <entry key="git.update.incoming.info.time" value="10" />
+    <entry key="ide.hide.excluded.files" value="true" />
+    <entry key="vcs.log.recent.commits.count" value="10" />
   </component>
 </application>
