@@ -103,5 +103,6 @@
     <entry key="git.update.incoming.info.time" value="10" />
     <entry key="ide.hide.excluded.files" value="true" />
     <entry key="vcs.log.recent.commits.count" value="10" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
   </component>
 </application>
